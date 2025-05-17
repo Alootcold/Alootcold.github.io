@@ -1,0 +1,13 @@
+<svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+    <!-- YouTube图标上半部分 - 红色矩形 -->
+    <path fill="#FF0000" d="M6,4h12v6h-12z" />
+    
+    <!-- YouTube图标 - 白色播放三角形 -->
+    <path fill="#FFFFFF" d="M10,5.5L14,7L10,8.5z" />
+    
+    <!-- 下载箭头 - 垂直线条 -->
+    <path stroke="#FF0000" stroke-width="2" stroke-linecap="round" d="M12,13v5" />
+    
+    <!-- 下载箭头 - 箭头头部 -->
+    <path fill="#FF0000" d="M9,17h6l-3,4z" />
+</svg> 
