@@ -106,6 +106,25 @@ ul {
     margin-right: 5px;
 }
 
+.btn-store {
+    background-color: #00a4ef;
+    color: white;
+    padding: 12px 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.btn-store:hover {
+    background-color: #008bcf;
+    transform: translateY(-2px);
+    box-shadow: var(--box-shadow);
+}
+
+.btn-store i {
+    margin-right: 5px;
+}
+
 /* 头部样式 */
 header {
     background-color: white;
